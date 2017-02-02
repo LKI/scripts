@@ -1,0 +1,3 @@
+itchat
+ipython
+numpy
