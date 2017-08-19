@@ -1,11 +1,10 @@
-print "begin"
+# -*- coding: utf-8 -*-
+from __future__ import absolute_import, unicode_literals
 
-import b
-
-import b
+print("begin")
 
 from b import b
 
-print "func"
+print("func")
 
 b()

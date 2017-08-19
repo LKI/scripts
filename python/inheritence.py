@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+from __future__ import absolute_import, unicode_literals
+
+
 class People(object):
     def eat(self):
         print("people eat")
